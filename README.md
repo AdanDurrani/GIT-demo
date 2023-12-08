@@ -1,4 +1,4 @@
 # GIT-demo
 This is my first repository. 
 <br>
-Author-adan durrani
+Author-(Adan Durrani)
